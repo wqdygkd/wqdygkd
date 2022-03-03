@@ -24,6 +24,15 @@ Here are some ideas to get you started:
   <a href="https://github.com/cuilongjin">GitHub</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5">
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/-Vue-333333?style=flat&logo=adobe-photoshop">
+</p>
+
+
+
 <h3 align="center">:chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:</h3>
 
 <p align="center">
