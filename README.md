@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cuilongjin&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=wqdygkd&color=brightgreen">
 </p>
 <h3 align="center">👋 Hello! I'm cuilongjin.</h3>
 <p align="center">
   <a href="https://wqdy.top">Blog</a> •
-  <a href="https://github.com/cuilongjin">GitHub</a>
+  <a href="https://github.com/wqdygkd">GitHub</a>
 </p>
 
 <p align="center">
@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 <h3 align="center">:chart_with_upwards_trend:Github Stats:chart_with_upwards_trend:</h3>
 
 <p align="center">
-  <a href="https://github.com/cuilongjin" title="cuilongjin's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=cuilongjin&show_icons=true&count_private=true&layout=compact&theme=default">
+  <a href="https://github.com/wqdygkd" title="wqdygkd's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=wqdygkd&show_icons=true&count_private=true&layout=compact&theme=default">
   </a>
   <br/>
 
-  <a href="https://github.com/cuilongjin" title="Most Used Languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuilongjin&layout=compact&count_private=true&theme=default">
+  <a href="https://github.com/wqdygkd" title="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wqdygkd&layout=compact&count_private=true&theme=default">
   </a>
 </p>
